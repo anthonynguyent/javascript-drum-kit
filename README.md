@@ -40,6 +40,10 @@ To modify the visual style of the drum kit, you can edit the `style.css` file. T
 
 If you want to change the background image, replace the existing `background.jpg` file in the project directory with your desired image file. Update the CSS code in the `style.css` file to refer to the new background image file.
 
+## Demo
+
+You can view a live demo of the project [here](https://anthonynguyent.github.io/javascript-drum-kit/).
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
